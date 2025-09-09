@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 ¡Hola soy 
-Programadora junior apasionada por la tecnología y el diseño UX/UI. Después de dedicar dos años como voluntaria, decidí seguir mi pasión por la programación. Actualmente trabajo en proyectos como una app web de emergencias y plataformas educativas, utilizando tecnologías como HTML, CSS, JavaScript y React. Me destaco por mi creatividad, trabajo en equipo y resolución de problemas. Busco oportunidades que me permitan aplicar mis conocimientos y crecer profesionalmente.
+Desarrollador junior apasionada por la tecnología y el diseño UX/UI. Después de dedicar dos años como voluntaria, decidí seguir mi pasión por la programación. Actualmente trabajo en proyectos como una app web de emergencias y plataformas educativas, utilizando tecnologías como HTML, CSS, JavaScript y React. Me destaco por mi creatividad, trabajo en equipo y resolución de problemas. Busco oportunidades que me permitan aplicar mis conocimientos y crecer profesionalmente.
 🚀 Proyectos Destacados
 
 
