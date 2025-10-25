@@ -36,6 +36,8 @@ Welcome to my digital space! I'm a passionate and versatile web developer with a
 
 ## Technologies:
 
+Here are some of the technologies I use to build my projects:
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -95,7 +97,7 @@ Welcome to my digital space! I'm a passionate and versatile web developer with a
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=spring" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c#" height="40" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="vscode logo"  />
   <img width="12" />
@@ -106,14 +108,13 @@ Welcome to my digital space! I'm a passionate and versatile web developer with a
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
 </div>
 
-Here are some of the technologies I use to build my projects:
-
 ---
 ## My Skills 
 
 **Frontend**
 
 * **React:** My go-to framework for creating dynamic and modern user interfaces.
+* * **Astro:** My new favorite framework for creating static modern user interfaces.
 * **HTML5, CSS3, JavaScript (ES6+):** The foundation of every web project.
 * **Sass, Tailwind CSS:** For efficient and scalable styling.
 
@@ -128,8 +129,10 @@ Here are some of the technologies I use to build my projects:
 
 ### Featured Projects 🌟
 
-* **[Project Name 1]**: A brief description that highlights your skills. For example: "A task management application with user authentication, built with **React** and **Node.js**."
-* **[Project Name 2]**: Another description. For example: "A proof-of-concept e-commerce site with an integrated payment gateway, developed using **React** and **Spring Boot**."
+* **[PetCareHackaton-Frontend](https://github.com/juanitalorenaherrera/FRONTEND-HACKATON-ONE-)**: A brief description that highlights your skills. For example: "A task management application with user authentication, built with **React**."
+* **[PetCareHackaton-Backend](https://github.com/iacastillo90/Petcare-HackathonONE-)**: A brief description that highlights your skills. For example: "A task management application with user authentication, built with **Java** and **Spring Boot**."
+* **[Zorvanz-Frontend](https://github.com/luiferDev/zorvanz)**: Another description. For example: "A proof-of-concept e-commerce site with an integrated payment gateway, developed using **React**."
+* **[Zorvanz-Backend](https://github.com/luiferDev/zorvanz_dotnet_api)**: Another description. For example: "A proof-of-concept e-commerce site with an integrated payment gateway, developed using **C#** amd **.NET**."
 
 _You can add more projects here with a link to their repositories._
 
@@ -139,5 +142,5 @@ _You can add more projects here with a link to their repositories._
 
 I'm always open to new challenges and opportunities. If you're interested in what I do, feel free to connect with me. Together, we can build something amazing!
 
-* **My LinkedIn Profile:** [LinkedIn](https://www.linkedin.com/in/jorge-morales-cruz/)
-* **My Email:** [Email](luifer991@protonmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@AlvaroCapaceta-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jorge-morales-cruz/)
+[![Email](https://img.shields.io/badge/ingcapadev@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:luifer991@protonmail.com)
