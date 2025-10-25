@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 Welcome to my digital space! I'm a passionate and versatile web developer with an insatiable hunger to learn and build. This is my personal portfolio and lab, where I explore and create projects that reflect my constant growth and evolution.
 
 ---
+[![GitHub Streak](https://streak-stats.demolab.com?user=luiferDev&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+---
 
 ### What Defines Me:
 
