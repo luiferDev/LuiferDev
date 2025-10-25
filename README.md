@@ -95,9 +95,11 @@ Welcome to my digital space! I'm a passionate and versatile web developer with a
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=spring" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=csharp" height="40" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=c#" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=.net" height="40" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
   <img width="12" />
