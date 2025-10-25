@@ -21,18 +21,18 @@ Here are some ideas to get you started:
 Welcome to my digital space! I'm a passionate and versatile web developer with an insatiable hunger to learn and build. This is my personal portfolio and lab, where I explore and create projects that reflect my constant growth and evolution.
 
 ---
+## Steak-stats
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=luiferDev&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 ---
 
-### What Defines Me:
+## What Defines Me:
 
 * **Passion and Curiosity:** For me, web development isn't just a job; it's a canvas where I can bring ideas to life. I thrive on solving complex problems and finding elegant solutions.
 * **Continuous Learning:** The tech world moves fast, and I love it. I'm always staying current with the latest tools and trends, exploring new technologies to expand my skillset.
 * **Versatility (Full Stack):** I enjoy both bringing the user interface to life on the **Frontend** and building the robust logic that powers it on the **Backend**. My **Full Stack** approach gives me a complete view of a project, allowing me to create comprehensive solutions.
 
 ---
-
-### My Skills 🛠️
 
 ## Technologies:
 
@@ -55,11 +55,13 @@ Welcome to my digital space! I'm a passionate and versatile web developer with a
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
+  <img src="https://skillicons.dev/icons?i=bun" height="40" alt="nestjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="sqlite logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
   <img width="12" />
@@ -71,6 +73,8 @@ Welcome to my digital space! I'm a passionate and versatile web developer with a
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="docker logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
@@ -81,11 +85,15 @@ Welcome to my digital space! I'm a passionate and versatile web developer with a
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nvim" height="40" alt="vscode logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="powershell logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
   <img width="12" />
@@ -93,6 +101,9 @@ Welcome to my digital space! I'm a passionate and versatile web developer with a
 </div>
 
 Here are some of the technologies I use to build my projects:
+
+---
+## My Skills 
 
 **Frontend**
 
