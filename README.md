@@ -142,5 +142,5 @@ _You can add more projects here with a link to their repositories._
 
 I'm always open to new challenges and opportunities. If you're interested in what I do, feel free to connect with me. Together, we can build something amazing!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-@Jorge-Morales-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jorge-morales-cruz/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@Jorge-Morales-cruz?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jorge-morales-cruz/)
 [![Email](https://img.shields.io/badge/luifer991@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:luifer991@protonmail.com)
