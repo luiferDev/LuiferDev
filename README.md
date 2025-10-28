@@ -23,7 +23,7 @@ Welcome to my digital space! I'm a passionate and versatile web developer with a
 ---
 ## Steak-stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=luiferDev&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=luiferDev)](https://git.io/streak-stats)
 ---
 
 ## What Defines Me:
