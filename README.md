@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 Welcome to my digital space! I'm a passionate and versatile web developer with an insatiable hunger to learn and build. This is my personal portfolio and lab, where I explore and create projects that reflect my constant growth and evolution.
 
 ---
-## Steak-stats
+## Streak-stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=luiferDev)](https://git.io/streak-stats)
 ---
@@ -134,7 +134,6 @@ Here are some of the technologies I use to build my projects:
 * **[Zorvanz-Frontend](https://github.com/luiferDev/zorvanz)**: Another description. For example: "A proof-of-concept e-commerce site with an integrated payment gateway, developed using **React**."
 * **[Zorvanz-Backend](https://github.com/luiferDev/zorvanz_dotnet_api)**: Another description. For example: "A proof-of-concept e-commerce site with an integrated payment gateway, developed using **C#** amd **.NET**."
 
-_You can add more projects here with a link to their repositories._
 
 ---
 
