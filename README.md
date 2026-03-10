@@ -129,10 +129,17 @@ Here are some of the technologies I use to build my projects:
 
 ### Featured Projects 🌟
 
-* **[PetCareHackaton-Frontend](https://github.com/juanitalorenaherrera/FRONTEND-HACKATON-ONE-)**: A brief description that highlights your skills. For example: "A task management application with user authentication, built with **React**."
-* **[PetCareHackaton-Backend](https://github.com/iacastillo90/Petcare-HackathonONE-)**: A brief description that highlights your skills. For example: "A task management application with user authentication, built with **Java** and **Spring Boot**."
-* **[Zorvanz-Frontend](https://github.com/luiferDev/zorvanz)**: Another description. For example: "A proof-of-concept e-commerce site with an integrated payment gateway, developed using **React**."
-* **[Zorvanz-Backend](https://github.com/luiferDev/zorvanz_dotnet_api)**: Another description. For example: "A proof-of-concept e-commerce site with an integrated payment gateway, developed using **C#** amd **.NET**."
+#### 🐾 PetCare Platform
+Project Overview: A comprehensive service ecosystem designed to connect pet owners with professional caretakers. The platform streamlines the entire care lifecycle—from pet onboarding with specific health requirements to real-time booking management. It empowers caretakers with business tools to manage their availability and income, while providing administrators with high-level oversight of platform health without compromising sensitive user data.
+
+* **[PetCareHackaton-Frontend](https://github.com/juanitalorenaherrera/FRONTEND-HACKATON-ONE-)**: A comprehensive pet services marketplace interface built with **React**. Features a multi-role dashboard system (Owner, Caretaker, Admin), dynamic scheduling calendars for service management, and responsive data visualization for tracking earnings and platform metrics.
+* **[PetCareHackaton-Backend](https://github.com/iacastillo90/Petcare-HackathonONE-)**: A robust microservices-based API developed with **Java** and **Spring Boot**. Implements secure multi-role authentication, complex business logic for booking workflows (accept/reject cycles), and an administrative analytics layer designed to monitor platform performance while maintaining strict data privacy standards.
+
+#### 🕯️ Zorvanz E-Commerce
+**Project Overview**: A specialized e-commerce solution for a boutique candle and air freshener brand. Unlike standard "off-the-shelf" stores, Zorvanz focuses on product personalization, allowing customers to tailor scents and styles to their preferences. The system bridges the gap between creative retail and data-driven management, offering a seamless shopping experience for users and a powerful analytics suite for business owners.
+
+* **[Zorvanz-Frontend](https://github.com/luiferDev/zorvanz)**: A personalized e-commerce interface for a candle and air freshener boutique, developed with **React**. It features a custom product configuration tool, a streamlined checkout flow with payment integration, and a dedicated administrator dashboard for real-time sales monitoring and inventory management
+* **[Zorvanz-Backend](https://github.com/luiferDev/zorvanz_dotnet_api)**: A scalable e-commerce API built with **C#** and **.NET**. This backend manages complex product customization logic, secure order processing, and an analytics engine that aggregates sales data and revenue metrics for administrative reporting.
 
 
 ---
